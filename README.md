@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![App Screenshot]("C:\21MIP\projects\FilteringReact\image\Screenshot 2024-04-19 162452.png")
+
 
 ## Available Scripts
 
